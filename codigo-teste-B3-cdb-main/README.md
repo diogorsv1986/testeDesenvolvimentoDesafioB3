@@ -28,7 +28,7 @@ iv. Acima de 24 meses 15%<br>
 </p>
 
 ## Clonar repositório
-```git clone https://github.com/diogorsv1986/testeDesevolvimentoDesafioB3.git ``
+```git clone https://github.com/diogorsv1986/testeDesenvolvimentoDesafioB3.git ``
 
 ## Execução
 Após clonar o repositório, os projetos poderão ser inicializados da seguinte forma utilizando o terminal de comando:
